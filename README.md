@@ -2,7 +2,7 @@
 <hr />
 
 - 🔭 Atualmete sou desenvolvedor Full Stack Pleno.
-- 🌱 Estou no cursando SI na Mackenzie.
+- 🌱 Estou cursando SI na Mackenzie.
 - 💬 Sobre mim: Tenho 22 anos, sou Dev desde 2019 e sou apaixonado por programação.
 
 <br />
