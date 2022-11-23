@@ -11,7 +11,7 @@
   <a href="https://github.com/EstevanSantana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstevanSantana&show_icons=true&theme=vision-friendly-dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevanSantana&layout=compact&theme=vision-friendly-dark"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=EstevanSantana&repo=LojaSantana&theme=vision-friendly-dark">
+  <img href="https://github.com/EstevanSantana/LojaSantana" height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=EstevanSantana&repo=LojaSantana&theme=vision-friendly-dark">
 
 </div>
   
